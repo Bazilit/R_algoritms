@@ -5,4 +5,4 @@
 3. [Зиккурат. Ступенчатая матрица](https://github.com/Bazilit/R_algoritms/blob/main/Зиккурат.%20Ступенчатая%20матрица)
 4. [Вектор с дробями числа "m" и "n"](https://github.com/Bazilit/R_algoritms/blob/main/Вектор%20с%20дробями%20числа%20%22m%22%20и%20%22n%22)
 5. [Шестигранный кубик](https://github.com/Bazilit/R_algoritms/blob/main/Шестигранный%20кубик)
-
+6. [Проверка векторов на возрастание/убывание](https://github.com/Bazilit/R_algoritms/blob/main/Проверка%20векторов%20на%20возрастание%20и%20убывание)
