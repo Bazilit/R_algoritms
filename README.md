@@ -9,3 +9,4 @@
 7. [Комбинаторика. Количество сочетаний без повторений и с повторениями](https://github.com/Bazilit/R_algoritms/blob/main/Комбинаторика.%20Количество%20сочетаний%20без%20повторений%20и%20с%20повторениями.)
 8. [Матрица с количеством повторов значений в векторе](https://github.com/Bazilit/R_algoritms/blob/main/Матрица%20с%20количеством%20повторов%20значений%20в%20векторе)
 9. [Сортировка data.frame "attitude"](https://github.com/Bazilit/R_algoritms/blob/main/Сортировка%20data.frame%20attitude)
+10. [Декоратор строк](https://github.com/Bazilit/R_algoritms/blob/main/Декоратор%20строк)
