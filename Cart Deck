@@ -3,6 +3,8 @@ generator <- function(set) function(n) sample(set, n, replace=T)
 values <- c("Ace", 2:10, "Jack", "Queen", "King")
 suits <- c("Clubs", "Diamonds", "Hearts", "Spades")
 cart_deck <- outer(values, suits, paste, sep = " of ")
+card_generator <- generator(cart_deck)
+card_generator(n)
 
 
 Result:
@@ -20,3 +22,6 @@ Result:
 # [11,] "Jack of Clubs"  "Jack of Diamonds"  "Jack of Hearts"  "Jack of Spades" 
 # [12,] "Queen of Clubs" "Queen of Diamonds" "Queen of Hearts" "Queen of Spades"
 # [13,] "King of Clubs"  "King of Diamonds"  "King of Hearts"  "King of Spades"
+
+# card_generator(5)
+# [1] "2 of Spades"   "3 of Clubs"    "9 of Hearts"   "7 of Clubs"    "2 of Diamonds"
