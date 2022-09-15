@@ -10,3 +10,5 @@
 8. [Матрица с количеством повторов значений в векторе](https://github.com/Bazilit/R_algoritms/blob/main/Матрица%20с%20количеством%20повторов%20значений%20в%20векторе)
 9. [Сортировка data.frame "attitude"](https://github.com/Bazilit/R_algoritms/blob/main/Сортировка%20data.frame%20attitude)
 10. [Декоратор строк](https://github.com/Bazilit/R_algoritms/blob/main/Декоратор%20строк)
+11. [Cart Deck](https://github.com/Bazilit/R_algoritms/blob/main/Cart%20Deck)
+12. [Нечестная рулетка в казино](https://github.com/Bazilit/R_algoritms/blob/main/Нечестная%20рулетка%20в%20казино)
