@@ -1,0 +1,20 @@
+# Честная -- это когда все имеющиеся значения (всего их 37) выпадают с равной вероятностью. 
+# А нечестная пусть выдаёт все значения, кроме зеро, с равной вероятностью. 
+# Что же касается зеро (первый элемент определённого мной вектора roulette_values), то вероятность его выпадения пусть будет в два раза больше, чем любого другого значения.
+
+# Функция generator -- фабрика функций, но с ещё более широкими возможностями. 
+# Я ожидаю, что в этом случае вызов generator(roulette_values) без аргумента prob. даст функцию для вызова честной рулетки fair_roulette. 
+# Для нечестной рулетки rigged_roulette вызов с параметром prob.
+
+
+
+generator <- function(set, prob=rep(1/length(set), length(set))) {
+if (prob == rep(1/length(set), length(set))) {
+    function(n) sample(set, n, prob, replace=T)} else {
+    rigged_prob <- c(2/(length(roulette_values)+2), rep(1/(length(roulette_values)+2), length(roulette_values) - 1))
+function(n) sample(set, n, prob=rigged_prob, replace=T)}
+}
+
+roulette_values <- c("Zero!", 1:36)
+fair_roulette <- generator(roulette_values)
+rigged_roulette <- generator(roulette_values, prob=0.3)
