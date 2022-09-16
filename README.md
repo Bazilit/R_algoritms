@@ -12,3 +12,4 @@
 10. [Декоратор строк](https://github.com/Bazilit/R_algoritms/blob/main/Декоратор%20строк)
 11. [Cart Deck](https://github.com/Bazilit/R_algoritms/blob/main/Cart%20Deck)
 12. [Нечестная рулетка в казино](https://github.com/Bazilit/R_algoritms/blob/main/Нечестная%20рулетка%20в%20казино)
+13. [Бинарный оператор %+%](https://github.com/Bazilit/R_algoritms/blob/main/Бинарный%20оператор%20%25%2B%25)
