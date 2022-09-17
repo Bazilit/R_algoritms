@@ -13,3 +13,4 @@
 11. [Cart Deck](https://github.com/Bazilit/R_algoritms/blob/main/Cart%20Deck)
 12. [Нечестная рулетка в казино](https://github.com/Bazilit/R_algoritms/blob/main/Нечестная%20рулетка%20в%20казино)
 13. [Бинарный оператор %+%](https://github.com/Bazilit/R_algoritms/blob/main/Бинарный%20оператор%20%25%2B%25)
+14. [Вариации признаков кота](https://github.com/Bazilit/R_algoritms/blob/main/%D0%92%D0%B0%D1%80%D0%B8%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%BA%D0%BE%D1%82%D0%B0)
