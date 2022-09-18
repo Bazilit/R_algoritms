@@ -1,0 +1,20 @@
+# Задача создать переменную good_months и сохранить в нее число пассажиров из встроенной переменной AirPassengers,
+# только в тех месяцах, в которых это число больше, чем показатель в предыдущем месяце.
+# В встроенных в R данных AirPassengers хранится 144 значения (количество пассажиров в месяц) с 1949 по 1960 год. 
+# Данные Time-Series очень похожи на вектор по своей структуре, например мы можем обратиться к любому из 144 элементов используя уже знакомую нам индексацию 
+# AirPassengers[1] или AirPassengers[56].
+
+# Solution 1:
+v1 <- as.vector(AirPassengers)
+v2 <- c(v1[length(v1)],v1[-length(v1)])
+good_months<- v1[v1>v2]
+
+# Solution 2:
+good_months <- c()    
+index <- 1    
+for (i in 2:length(AirPassengers)) {    
+	if (AirPassengers[i]>AirPassengers[i-1]){    
+		good_months[index] <- AirPassengers[i]    
+		index <- index + 1    
+		}    
+	}
