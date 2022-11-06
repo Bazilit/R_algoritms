@@ -16,3 +16,4 @@
 14. [Вариации признаков кота](https://github.com/Bazilit/R_algoritms/blob/main/%D0%92%D0%B0%D1%80%D0%B8%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%BA%D0%BE%D1%82%D0%B0)
 15. [Число пассажиров AirPassengers](https://github.com/Bazilit/R_algoritms/blob/main/%D0%A7%D0%B8%D1%81%D0%BB%D0%BE%20%D0%BF%D0%B0%D1%81%D1%81%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%20AirPassengers)
 16. [Скользящее среднее для AirPassengers](https://github.com/Bazilit/R_algoritms/blob/main/%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%B7%D1%8F%D1%89%D0%B5%D0%B5%20%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B5%20%D0%B4%D0%BB%D1%8F%20AirPassengers)
+17. [Проверка Data Frame на нормальность распределения входных параметров и выбор соответствующего метода корреляции](https://github.com/Bazilit/R_algoritms/blob/main/Проверка%20DF%20на%20нормальность%20распределения%20и%20выбор%20соответствующей%20корреляции)
